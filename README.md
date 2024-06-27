@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3>A passionate frontend developer from Poland</h3>
+<h1 align="left">Hi 👋, I'm Dominik</h1>
+<h3 align="left">Frontend Developer 🌐 | Computer Science Student at WSEI 📚</h3>
 
 - 🔭 I’m currently working on **Elden Ring Tracker**
 
