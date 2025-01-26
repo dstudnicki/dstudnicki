@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **[www.linkedin.com/in/dominik-studnicki](https://www.linkedin.com/in/dominik-studnicki)** or **dstudnicki71@gmail.com"
+- 📫 How to reach me **[www.linkedin.com/in/dominik-studnicki](https://www.linkedin.com/in/dominik-studnicki)** or dstudnicki71@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=dstudnicki&color=blueviolet)
