@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/dstudnicki/eldenringtracker">**Elden Ring Tracker**</a>
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **[www.linkedin.com/in/dominik-studnicki](https://www.linkedin.com/in/dominik-studnicki)**
+- 📫 How to reach me **[www.linkedin.com/in/dominik-studnicki](https://www.linkedin.com/in/dominik-studnicki)** or **dstudnicki71@gmail.com"
+
+![](https://komarev.com/ghpvc/?username=dstudnicki&color=blueviolet)
