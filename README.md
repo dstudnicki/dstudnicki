@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/dstudnicki/eldenringtracker">**Elden Ring Tracker**</a>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning 🐧
 
 - 📫 How to reach me **[www.linkedin.com/in/dominik-studnicki](https://www.linkedin.com/in/dominik-studnicki)** or dstudnicki71@gmail.com
 
